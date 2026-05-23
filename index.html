@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Modern Image Gallery</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+
+    <h1>Image Gallery</h1>
+
+    <!-- Filter Buttons -->
+    <div class="buttons">
+
+      <button class="active" data-name="all">All</button>
+      <button data-name="favorite">Favorite</button>
+      <button data-name="nature">Nature</button>
+      <button data-name="flowers">Flowers</button>
+      <button data-name="places">Places</button>
+      <button data-name="animals">Animals</button>
+
+    </div>
+
+    <!-- Gallery -->
+    <div class="gallery">
+
+      <div class="image" data-name="favorite">
+        <img src="images/img1.jpg">
+      </div>
+
+      <div class="image" data-name="flowers">
+        <img src="images/img2.jpg">
+      </div>
+
+      <div class="image" data-name="animals">
+        <img src="images/img3.jpg">
+      </div>
+
+      <div class="image" data-name="nature">
+        <img src="images/img4.jpg">
+      </div>
+
+      <div class="image" data-name="favorite">
+        <img src="images/img5.jpg">
+      </div>
+
+      <div class="image" data-name="flowers">
+        <img src="images/img6.jpg">
+      </div>
+
+      <div class="image" data-name="flowers">
+        <img src="images/img7.jpg">
+      </div>
+
+      <div class="image" data-name="nature">
+        <img src="images/img8.jpg">
+      </div>
+
+      <div class="image" data-name="places">
+        <img src="images/img9.jpg">
+      </div>
+
+      <div class="image" data-name="favorite">
+        <img src="images/img10.jpg">
+      </div>
+
+      <div class="image" data-name="places">
+        <img src="images/img11.jpg">
+      </div>
+
+      <div class="image" data-name="nature">
+        <img src="images/img12.jpg">
+      </div>
+
+      <div class="image" data-name="favorite">
+        <img src="images/img13.jpg">
+      </div>
+
+      <div class="image" data-name="places">
+        <img src="images/img14.jpg">
+      </div>
+
+      <div class="image" data-name="animals">
+        <img src="images/img15.jpg">
+      </div>
+
+      <div class="image" data-name="favorite">
+        <img src="images/img16.jpg">
+      </div>
+
+      <div class="image" data-name="animals">
+        <img src="images/img17.jpg">
+      </div>
+
+      <div class="image" data-name="places">
+        <img src="images/img18.jpg">
+      </div>
+
+      <div class="image" data-name="favorite">
+        <img src="images/img19.jpg">
+      </div>
+
+    </div>
+
+  </div>
+
+  <!-- Lightbox -->
+
+<div class="lightbox">
+
+  <!-- Close Button -->
+  <span class="close">&times;</span>
+
+  <!-- Previous Button -->
+  <button class="prev">
+    <span>‹</span>
+  </button>
+
+  <!-- Displayed Image -->
+  <img class="lightbox-img">
+
+  <!-- Next Button -->
+  <button class="next">
+    <span>›</span>
+  </button>
+
+</div>
+
+<div class="cursor"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
