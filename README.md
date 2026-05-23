@@ -52,4 +52,4 @@ This project was created as part of the CodeAlpha Frontend Development Internshi
 
 ## 👩‍💻 Author
 
-Your Name
+Srinaina
