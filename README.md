@@ -1,6 +1,12 @@
-# 📸 CodeAlpha Image Gallery
+# Title
 
-Responsive Image Gallery built using HTML, CSS, and JavaScript as part of the CodeAlpha Frontend Development Internship.
+ 📸 CodeAlpha Image Gallery
+
+ ---
+
+# Description
+
+A Responsive Image Gallery built using HTML, CSS, and JavaScript with category filters, lightbox preview, custom cursor effects, and fully responsive design as part of the CodeAlpha Frontend Development Internship.
 
 ---
 
