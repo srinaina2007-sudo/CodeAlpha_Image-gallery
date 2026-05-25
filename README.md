@@ -6,7 +6,7 @@ Responsive Image Gallery built using HTML, CSS, and JavaScript as part of the Co
 
 ## 🚀 Live Demo
 
-[View Live Project](https://srinaina2007-sudo.github.io/CodeAlpha_Image-gallery/git )
+[View Live Project](https://srinaina2007-sudo.github.io/CodeAlpha_Image-gallery/)
 
 ---
 
