@@ -1,5 +1,3 @@
-# Title
-
 <h1 align="center">📸 CodeAlpha Image Gallery</h1>
 
 <p align="center">
