@@ -1,55 +1,75 @@
 # 📸 CodeAlpha Image Gallery
 
-A responsive and interactive Image Gallery built using HTML, CSS, and JavaScript.
+Responsive Image Gallery built using HTML, CSS, and JavaScript as part of the CodeAlpha Frontend Development Internship.
 
-## 🚀 Features
+---
 
-- Responsive image gallery layout
-- Hover effects and smooth transitions
-- Lightbox image preview
-- Next and Previous navigation buttons
-- Mobile-friendly design
-- Simple and clean UI
+## 🚀 Live Demo
 
-## 🛠 Technologies Used
+[View Live Project](https://YOUR-USERNAME.github.io/CodeAlpha_Image-gallery/)
+
+---
+
+## ✨ Features
+
+- Responsive Image Gallery
+- Interactive Lightbox View
+- Smooth Hover Effects
+- Next/Previous Navigation
+- Mobile-Friendly Design
+- Category Filters
+
+---
+
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
+---
+
+## 📸 Screenshots
+
+### 🖼️ Homepage
+
+<p align="center">
+  <img src="images/Home-page.png" width="900">
+</p>
+
+---
+
+### 🔍 Lightbox View
+
+<p align="center">
+  <img src="images/lightbox-view.png" width="900">
+</p>
+
+---
+
+### 📱 Mobile Responsive View
+
+<p align="center">
+  <img src="images/mobile-view.png" width="400">
+</p>
+
+---
+
 ## 📂 Project Structure
 
-```plaintext
-CodeAlpha_ImageGallery
-│
-├── index.html
-├── style.css
-├── script.js
-│
-└── images
-    ├── img1.jpg
-    ├── img2.jpg
-    ├── img3.jpg
-    └── ...
+```text
+CodeAlpha_Image-gallery/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+│── images/
 ```
 
-## ▶ How to Run
+---
 
-1. Download or clone the repository
-2. Open the project folder
-3. Make sure your images are inside the `images` folder
-4. Open `index.html` in your browser
+## 👨‍💻 Author
 
-## 📷 Gallery Features
+Sri Naina
 
-- Click any image to open lightbox view
-- Use Next/Previous buttons to navigate images
-- Responsive grid adjusts for all screen sizes
-
-## 📌 Internship Task
-
-This project was created as part of the CodeAlpha Frontend Development Internship.
-
-## 👩‍💻 Author
-
-Srinaina
+GitHub: https://github.com/srinaina2007-sudo
