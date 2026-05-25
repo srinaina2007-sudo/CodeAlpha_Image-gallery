@@ -1,12 +1,10 @@
 # Title
 
- 📸 CodeAlpha Image Gallery
+<h1 align="center">📸 CodeAlpha Image Gallery</h1>
 
- ---
-
-# Description
-
+<p align="center">
 A Responsive Image Gallery built using HTML, CSS, and JavaScript with category filters, lightbox preview, custom cursor effects, and fully responsive design as part of the CodeAlpha Frontend Development Internship.
+</p>
 
 ---
 
